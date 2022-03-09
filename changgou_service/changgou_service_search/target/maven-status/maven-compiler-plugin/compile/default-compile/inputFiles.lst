@@ -1,0 +1,11 @@
+D:\projects\first-head-oauth2\changgou_parent\changgou_service\changgou_service_search\src\main\java\com\changgou\search\controller\ESManagerController.java
+D:\projects\first-head-oauth2\changgou_parent\changgou_service\changgou_service_search\src\main\java\com\changgou\search\config\RabbitMQConfig.java
+D:\projects\first-head-oauth2\changgou_parent\changgou_service\changgou_service_search\src\main\java\com\changgou\search\dao\ESManagerMapper.java
+D:\projects\first-head-oauth2\changgou_parent\changgou_service\changgou_service_search\src\main\java\com\changgou\search\service\ESManagerService.java
+D:\projects\first-head-oauth2\changgou_parent\changgou_service\changgou_service_search\src\main\java\com\changgou\search\controller\SearchController.java
+D:\projects\first-head-oauth2\changgou_parent\changgou_service\changgou_service_search\src\main\java\com\changgou\search\listener\GoodsDelListener.java
+D:\projects\first-head-oauth2\changgou_parent\changgou_service\changgou_service_search\src\main\java\com\changgou\search\listener\GoodsUpListener.java
+D:\projects\first-head-oauth2\changgou_parent\changgou_service\changgou_service_search\src\main\java\com\changgou\search\service\impl\SearchServiceImpl.java
+D:\projects\first-head-oauth2\changgou_parent\changgou_service\changgou_service_search\src\main\java\com\changgou\search\service\impl\ESManagerServiceImpl.java
+D:\projects\first-head-oauth2\changgou_parent\changgou_service\changgou_service_search\src\main\java\com\changgou\search\SearchApplication.java
+D:\projects\first-head-oauth2\changgou_parent\changgou_service\changgou_service_search\src\main\java\com\changgou\search\service\SearchService.java
